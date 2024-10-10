@@ -30,3 +30,15 @@ p{
 .center{
     text-align: center;
 }
+
+.href{
+    text-decoration-line: underline;
+    
+    }
+
+    .dash{
+
+        text-decoration-line: underline; text-decoration-style: dashed;
+    
+    }
+    
