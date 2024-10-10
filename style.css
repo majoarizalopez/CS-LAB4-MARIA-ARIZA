@@ -62,3 +62,7 @@ body{
 .custom-font{
     font-family: 'Times New Roman', serif;
 }
+
+.heading{
+    text-transform: uppercase;
+}
