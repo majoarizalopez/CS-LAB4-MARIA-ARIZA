@@ -68,5 +68,5 @@ body{
 }
 
 .capitalize-text{
-    text-transform: ;
+    text-transform: capitalize;
 }
